@@ -1,0 +1,33 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+
+# Environment
+.env
+.venv/
+venv/
+ENV/
+env.bak/
+env/
+
+# Jupyter Runtime
+*.local/share/jupyter/runtime/
+
+# VSCode settings
+.vscode/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# PyTorch checkpoints
+*.pth
+*.pt
+
+# Data or output directories
+outputs/
+logs/
