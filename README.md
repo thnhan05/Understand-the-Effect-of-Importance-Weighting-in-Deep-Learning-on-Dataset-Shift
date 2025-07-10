@@ -66,11 +66,11 @@ jupyter notebook Synthetic_Data.ipynb
 If you use this code or find it helpful in your work, please cite:
 
 ```bibtex
-@misc{your2025paper,
+@misc{Thien Nhan Vo,
   title={Understanding the Effect of Importance Weighting in Deep Learning under Dataset Shift},
-  author={Your Name},
+  author={Thien Nhan Vo},
   year={2025},
-  eprint={arXiv:2505.xxxxx},
+  eprint={arXiv:2505.03617},
   archivePrefix={arXiv},
   primaryClass={cs.LG}
 }
