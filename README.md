@@ -83,4 +83,4 @@ This project is licensed under the MIT License. See `LICENSE` for details.
 ## 🙋 Contact
 
 For questions or collaborations, please reach out at:  
-📧 thiennhan.vt@hutech.edu.vn
+📧 thiennhan.math@gmail.com
